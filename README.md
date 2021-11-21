@@ -9,3 +9,7 @@ Deep-Learning / Machine Learning
 
 Pytorch
 * 파이토치 딥러닝 프로젝트 모음집
+###
+- Pytorch Seminar 01 : 질병 작물 분류
+- Pytorch Seminar 02 : 국민청원 분류 (TextCNN)
+- Pytorch Seminar 03 : 이미지 애니매이션 화(CycleGAN)
